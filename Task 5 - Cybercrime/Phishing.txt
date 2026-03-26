@@ -1,0 +1,20 @@
+# Case Study: Phishing Attack on College Students
+
+What is Phishing?
+Phishing is a cybercrime where attackers trick individuals into revealing sensitive information such as passwords, bank details, or UPI credentials by pretending to be a trusted entity.
+
+How it Typically Happens ?
+1. The attacker sends a fake email or message that looks like it comes from a bank, university, or payment app.  
+2. The message contains urgent language like “Your account will be blocked” or "Verify your UPI ID now". 
+3. A link in the message leads to a fake website that looks identical to the real one.  
+4. The victim enters their login or payment details.  
+5. The attacker captures this information and uses it to steal money or identity.
+
+Who is Targeted?
+- College students who are new to online banking and UPI apps.  
+- Individuals who are less cautious about verifying links.  
+
+Consequences:  
+Victims may lose money directly from their bank accounts, suffer identity theft, or face emotional stress.
+In one real case reported in India , students lost thousands of rupees after entering details on a fake scholarship portal.  
+
