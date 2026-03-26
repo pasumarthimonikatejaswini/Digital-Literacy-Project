@@ -1,0 +1,17 @@
+# Stay Safe Online Checklist for College Students
+
+✅ General Safety
+- Use strong, unique passwords for each account and update them regularly.  
+- Enable two-factor authentication (2FA) on email, social media, and banking apps.  
+- Verify links before clicking — hover over them to check the actual URL.  
+- Keep your phone and laptop updated with the latest security patches.  
+- Avoid sharing personal details (like Aadhaar, college ID, or address) on public platforms.  
+- Log out of accounts when using shared or public computers.  
+
+💳 Financial / UPI Safety
+- Never share your UPI PIN, OTP, or banking passwords with anyone.  
+- Only use official UPI apps (Google Pay, PhonePe, Paytm, BHIM) downloaded from trusted sources.  
+
+📢 Reporting Channels
+- **National Cyber Crime Portal:** [cybercrime.gov.in](https://cybercrime.gov.in)  
+- **Helpline:** Dial **1930** for immediate assistance.  
