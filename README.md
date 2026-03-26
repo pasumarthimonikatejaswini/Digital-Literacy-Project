@@ -22,15 +22,15 @@ All the tasks in this repository are organized into separate folders for clarity
 - `task-5-cybercrime/` → Case study and prevention tips  
 - `report/` → Final project report
   
-# 🧠 Task Summaries
+# Tasks
 
-# 📊 Task 1 – Digital Literacy Infographic
+ 📊 Task 1 – Digital Literacy Infographic
 In this task, I created an infographic using Canva to explain the concept of digital literacy. The design covers important topics like safe internet practices, useful digital tools, and maintaining a professional online presence. The aim was to present the information in a simple and visually clear format.
 
-# 💼 Task 2 – Digital Portfolio
+ 💼 Task 2 – Digital Portfolio
 For this task, I created and updated my profiles on platforms like GitHub, LinkedIn, and Kaggle. These platforms help in building a professional identity and showcasing skills. Screenshots of all profiles are included in the folder.
 
-# 💻 Task 3 – Platforms Exploration
+ 💻 Task 3 – Platforms Exploration
 In this task, I explored a coding platform and completed a beginner-level problem. I also created a Google Form quiz on digital literacy and learned how responses are collected and analyzed. This task helped me understand useful academic and collaboration tools.
 
 # ✉️ Task 4 – Email Etiquette
